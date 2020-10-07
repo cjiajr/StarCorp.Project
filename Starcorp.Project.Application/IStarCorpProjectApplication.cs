@@ -7,5 +7,7 @@ namespace StarCorp.Project.Application
         string Calculate(int Number);
 
 
+        //teste de alteração
+
     }
 }
